@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Fun with Primes</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="fun_with_primes">Fun with Primes</string>
+    <string name="guessed_0">Guessed: 0</string>
+    <string name="_66">66</string>
+    <string name="errors_0">Errors : 0</string>
+    <string name="ins1">1. Guess, whether a number is prime</string>
+    <string name="ins2">2. Earn points</string>
+    <string name="ins3">3. Profit?</string>
 </resources>
